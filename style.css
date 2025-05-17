@@ -393,7 +393,8 @@ body.dark .form-group textarea {
 body.dark .contact-card {
     box-shadow: 0 4px 24px 0 rgba(37,99,235,0.10), 0 1.5px 8px 0 rgba(37,99,235,0.06);
     border: 1.5px solid #232336;
-    
+}
+
 .contact-icon {
     display: flex;
     align-items: center;
